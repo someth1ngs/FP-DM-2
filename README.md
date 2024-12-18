@@ -1,6 +1,8 @@
 data_fix = Hasil Scraping
+
 dataset_balance = Hasil Labeling Manual
-Streamlit = Dataset untuk Streamlit
+
+streamlit = Dataset untuk Streamlit
 
 Anggota Kelompok
 1. Kevin Yohanes Wuryanto	 	  21082010193
